@@ -2,10 +2,13 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Arduino](https://img.shields.io/badge/Hardware-Arduino-00979D.svg)
+![Autodesk Fusion](https://img.shields.io/badge/Design-Autodesk%20Fusion-0F9D58.svg)
 ![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-2fa5d6.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 (Arquitecto Técnico_JMC) Herramienta integral (Hardware impreso en 3D + Software de escritorio) diseñada específicamente para acelerar el flujo de trabajo en modelado 3D (Autodesk Fusion, Blender, etc.). Este macropad ergonómico, adaptado a la mano izquierda, es el compañero perfecto para un ratón óptico 3Dconnexion, permitiendo mantener ambas manos en los controles sin tocar el teclado.
+
+Vídeo de ejemplo: [Ver en YouTube](https://youtu.be/fc4IcWASTRE). Este video muestra un ejemplo de cómo funciona el proyecto.
 
 ## 🚀 La Filosofía del Setup (Left-Hand + 3D Mouse)
 
