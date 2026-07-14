@@ -19,11 +19,11 @@ El software actúa como el "cerebro" que traduce las señales del Arduino a trav
 
 ## 🧠 Características del Software (v6.2)
 
-*   **Matriz de 27 Acciones:** Configura hasta 3 acciones distintas por cada uno de los 9 botones físicos (Pulsación Corta, Larga y Doble)[cite: 11].
-*   **Creador de Secuencias (Macros):** No te limites a un solo atajo. Construye secuencias que combinen pulsaciones de teclas, inserción de texto, retardos (ms) y comandos de sistema[cite: 11].
-*   **Gestor de Perfiles:** Guarda tus configuraciones en archivos `.json` locales[cite: 11]. Crea un perfil para Autodesk Fusion, otro para tu software de renderizado y otro para uso general de Windows.
-*   **Integración OBS Studio:** Incluye un módulo nativo mediante `obs-websocket-py` para controlar grabaciones o streamings de tus sesiones de modelado con un solo toque[cite: 11].
-*   **Interfaz Minimalista Dark Mode:** UI limpia, sin etiquetas innecesarias, con asistentes de bienvenida y registro de actividad (Logs) en tiempo real[cite: 11].
+*   **Matriz de 27 Acciones:** Configura hasta 3 acciones distintas por cada uno de los 9 botones físicos (Pulsación Corta, Larga y Doble).
+*   **Creador de Secuencias (Macros):** No te limites a un solo atajo. Construye secuencias que combinen pulsaciones de teclas, inserción de texto, retardos (ms) y comandos de sistema.
+*   **Gestor de Perfiles:** Guarda tus configuraciones en archivos `.json` locales. Crea un perfil para Autodesk Fusion, otro para tu software de renderizado y otro para uso general de Windows.
+*   **Integración OBS Studio:** Incluye un módulo nativo mediante `obs-websocket-py` para controlar grabaciones o streamings de tus sesiones de modelado con un solo toque.
+*   **Interfaz Minimalista Dark Mode:** UI limpia, sin etiquetas innecesarias, con asistentes de bienvenida y registro de actividad (Logs) en tiempo real.
 
 ## 📂 Estructura del Repositorio
 
@@ -40,9 +40,9 @@ Si prefieres ejecutar el software desde el código fuente, necesitarás:
    ```bash
    pip install customtkinter pyserial pynput Pillow
 
-(Opcional: instalar obs-websocket-py si deseas usar la integración con OBS[cite: 11]).
+(Opcional: instalar obs-websocket-py si deseas usar la integración con OBS).
 
-3. Ejecutar el programa y seleccionar el puerto COM de tu Arduino[cite: 11].
+3. Ejecutar el programa y seleccionar el puerto COM de tu Arduino.
 
 ## 👨‍💻 Autor
 
