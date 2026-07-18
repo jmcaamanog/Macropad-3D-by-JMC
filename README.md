@@ -1,10 +1,16 @@
 # MACROpad 3D Pro - Configurador y Hardware 🕹️🛠️
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-00979D.svg)
-![Autodesk Fusion](https://img.shields.io/badge/Design-Autodesk%20Fusion-0F9D58.svg)
-![CustomTkinter](https://img.shields.io/badge/GUI-CustomTkinter-2fa5d6.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Role](https://img.shields.io/badge/Role-BIM%20%26%20ConTech-007ACC?logo=bim360&style=flat-square)
+![Location](https://img.shields.io/badge/Location-A%20Coru%C3%B1a%20%F0%9F%8C%8A-005B94?logo=lighthouse&logoColor=white&style=flat-square)
+![Sector](https://img.shields.io/badge/Sector-ConTech%20%7C%20AECO-E65100?logo=construct3&style=flat-square)
+![BIM](https://img.shields.io/badge/BIM-IFC%20%2F%20openBIM-009688?style=flat-square)
+![Maker](https://img.shields.io/badge/Maker-Software%20+%20Hardware-red?logo=makerbot&style=flat-square)
+![Hardware](https://img.shields.io/badge/Hardware-Arduino-00979D?logo=arduino&logoColor=white&style=flat-square)
+![Windows](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows&style=flat-square)
+![Language](https://img.shields.io/badge/Language-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
+![Stars](https://img.shields.io/github/stars/jmcaamanog/Macropad-3D-by-JMC?style=flat-square&color=yellow&logo=github)
+![License](https://img.shields.io/github/license/jmcaamanog/Macropad-3D-by-JMC?style=flat-square&color=green)
 
 (Arquitecto Técnico_JMC) Herramienta integral (Hardware impreso en 3D + Software de escritorio) diseñada específicamente para acelerar el flujo de trabajo en modelado 3D (Autodesk Fusion, Blender, etc.). Este macropad ergonómico, adaptado a la mano izquierda, es el compañero perfecto para un ratón óptico 3Dconnexion, permitiendo mantener ambas manos en los controles sin tocar el teclado.
 
