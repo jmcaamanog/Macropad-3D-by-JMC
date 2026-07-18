@@ -12,9 +12,22 @@
 * Modelo 3D interactivo: [Ver en Sketchfab](https://sketchfab.com/3d-models/macropad-by-jmc-c2115bdf29d04d7a988c859baa1c8288).
 
 <div align="center">
-  <a href="https://sketchfab.com/3d-models/macropad-by-jmc-c2115bdf29d04d7a988c859baa1c8288" target="_blank">
-    <img src="https://raw.githubusercontent.com/jmcaamanog/Macropad-3D-by-JMC/main/CAPTURAS/MACROPAD%20(1).png" alt="Macropad 3D Model Preview" width="600" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); max-width: 100%;">
-  </a>
+  <table border="0" style="border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <p><strong>🕹️ Hardware (Impresión 3D)</strong></p>
+        <a href="https://sketchfab.com/3d-models/macropad-by-jmc-c2115bdf29d04d7a988c859baa1c8288" target="_blank">
+          <img src="https://raw.githubusercontent.com/jmcaamanog/Macropad-3D-by-JMC/main/CAPTURAS/MACROPAD%20(3).png" alt="Hardware Macropad 3D" style="border-radius: 8px; width: 100%; max-width: 380px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+        </a>
+      </td>
+      <td width="50%" align="center" style="border: none; padding: 10px;">
+        <p><strong>💻 Software (Configurador GUI)</strong></p>
+        <a href="https://sketchfab.com/3d-models/macropad-by-jmc-c2115bdf29d04d7a988c859baa1c8288" target="_blank">
+          <img src="https://raw.githubusercontent.com/jmcaamanog/Macropad-3D-by-JMC/main/CAPTURAS/MACROPAD%20(4).jpg" alt="Software GUI Macropad" style="border-radius: 8px; width: 100%; max-width: 380px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 🚀 La Filosofía del Setup (Left-Hand + 3D Mouse)
