@@ -9,7 +9,11 @@
 (Arquitecto Técnico_JMC) Herramienta integral (Hardware impreso en 3D + Software de escritorio) diseñada específicamente para acelerar el flujo de trabajo en modelado 3D (Autodesk Fusion, Blender, etc.). Este macropad ergonómico, adaptado a la mano izquierda, es el compañero perfecto para un ratón óptico 3Dconnexion, permitiendo mantener ambas manos en los controles sin tocar el teclado.
 
 * Vídeo de ejemplo: [Ver en YouTube](https://youtu.be/fc4IcWASTRE). Este video muestra un ejemplo de cómo funciona el proyecto.
-* Tambien podeis ver el modelo 3D de cómo es->    [Ver en SketchFab](https://github.com/jmcaamanog )
+* Modelo 3D interactivo: [Ver en Sketchfab](https://sketchfab.com/3d-models/macropad-by-jmc-c2115bdf29d04d7a988c859baa1c8288).
+
+<div align="center">
+  <iframe width="100%" height="400" src="https://sketchfab.com/models/c2115bdf29d04d7a988c859baa1c8288/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share style="border-radius: 8px;"></iframe>
+</div>
 
 ## 🚀 La Filosofía del Setup (Left-Hand + 3D Mouse)
 
