@@ -12,7 +12,9 @@
 * Modelo 3D interactivo: [Ver en Sketchfab](https://sketchfab.com/3d-models/macropad-by-jmc-c2115bdf29d04d7a988c859baa1c8288).
 
 <div align="center">
-  <iframe width="100%" height="400" src="https://sketchfab.com/models/c2115bdf29d04d7a988c859baa1c8288/embed" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share style="border-radius: 8px;"></iframe>
+  <a href="https://sketchfab.com/3d-models/macropad-by-jmc-c2115bdf29d04d7a988c859baa1c8288" target="_blank">
+    <img src="https://raw.githubusercontent.com/jmcaamanog/Macropad-3D-by-JMC/main/CAPTURAS/MACROPAD%20(1).png" alt="Macropad 3D Model Preview" width="600" style="border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.3); max-width: 100%;">
+  </a>
 </div>
 
 ## 🚀 La Filosofía del Setup (Left-Hand + 3D Mouse)
